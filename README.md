@@ -15,3 +15,8 @@ This notebook summarizes the testing methods from <b>Inferential Statitistics </
 *  Quantitative associations: ANOVA
 
 *  Nonparametric tests
+
+
+# Statistical Thinking
+
+This notebook analyze real word data by applying inferential statistics.
